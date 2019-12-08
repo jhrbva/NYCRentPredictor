@@ -36,7 +36,7 @@ We found the correct values from a google search and replaced the outliers on ou
 > This is a scatter plot of square footage by rent price based on the training data set. As we can see, this is a good feature for 
 predictions using a linear regression model.
 
-# Insert Image!!!
+> <img src='data_power.png' title='Predictive power of data' width='' alt='' />
 
 ### Transformation and Modeling
 (a) Describe 5 features you think to play the biggest role in your model. 
@@ -69,7 +69,7 @@ From there we joined the Test3 and restaurant data along with this external data
 (d) Create at least one visualization that demonstrates the predictive power of your model. 
 > We plotted a histogram of rents. As expected, it is right-skewed as the majority of rentals fall under the $5k/month, while outliers can go up to $25k/month
 
-# Insert image!!!
+> <img src='model_power.png' title='Predictive power of model' width='' alt='' />
 
 
 ### Conclusion
